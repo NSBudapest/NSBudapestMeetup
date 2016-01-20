@@ -28,7 +28,7 @@ Twitter: [lorentey](https://twitter.com/lorentey)
 
 [Shapr3D](http://www.shapr3d.com/) is a 3D modeling app for the iPad Pro. I will talk about the challenges of UI/UX design of a very complex application, about designing our interface for the Apple Pencil and multitouch interaction. I will briefly talk about the technical challenges of developing a CAD application on a mobile platform, about our technology stack, and about our experiences with the iPad Pro's amazing ARMv9 CPU.
 
-Istvan is a software engineer and serial entrepreneur. He is the founder and CEO of Shapr3D.
+*Istvan is a software engineer and serial entrepreneur. He is the founder and CEO of Shapr3D.*
 
 Intro about the app: https://www.facebook.com/shapr3d/videos/739858942781269/?theater
 
@@ -47,7 +47,7 @@ My presentation aims to be an insider-tour in Skyscanner’s engineering culture
 
 We haven't reached the end of our journey yet, however we think that our first learnings can be interesting for others.
 
-Peter is a passionate software engineer. For the last 5 years he has worked in iOS development and contributed to the birth of several state of the art mobile applications under the flag of a Hungarian start-up, Distinction. Since the company’s acquisition by leading travel search engine Skyscanner in 2014, he has been leading iOS development teams and could also release his dream project, Dixie as the company’s first open source library.
+*Peter is a passionate software engineer. For the last 5 years he has worked in iOS development and contributed to the birth of several state of the art mobile applications under the flag of a Hungarian start-up, Distinction. Since the company’s acquisition by leading travel search engine Skyscanner in 2014, he has been leading iOS development teams and could also release his dream project, Dixie as the company’s first open source library.*
 
 Slides: [skyscanner_eng.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/skyscanner_eng.pdf)
 

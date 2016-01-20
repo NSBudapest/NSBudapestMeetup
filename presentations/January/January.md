@@ -9,8 +9,9 @@ Meetup: [NSBudapest Meetup January](http://www.meetup.com/NSBudapest/events/2272
 
 Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6tQwU), will be replaced with HQ video later
 
-**Károly Lőrentey (indie dev), What about Swift?**
+1
 ---
+**Károly Lőrentey (indie dev), What about Swift?**
 
 Swift is Apple's recently created programming language with no source or link-time compatibility, or even a working compiler. In this extremely serious talk for professional software engineers, we are going to take a quick look at the current state of the Swift language, compiler and ecosystem.
 
@@ -20,8 +21,10 @@ Slides: [NSBudapest - lorentey - Swift.pdf](https://github.com/NSBudapest/NSBuda
 
 Twitter: [lorentey](https://twitter.com/lorentey)
 
-**István Csanády (Shapr3D), How we redesigned the 3D modeling user experience from the ground up for the iPad Pro?**
+2
 ---
+
+**István Csanády (Shapr3D), How we redesigned the 3D modeling user experience from the ground up for the iPad Pro?**
 
 [Shapr3D](http://www.shapr3d.com/) is a 3D modeling app for the iPad Pro. I will talk about the challenges of UI/UX design of a very complex application, about designing our interface for the Apple Pencil and multitouch interaction. I will briefly talk about the technical challenges of developing a CAD application on a mobile platform, about our technology stack, and about our experiences with the iPad Pro's amazing ARMv9 CPU.
 
@@ -33,8 +36,10 @@ Slides: [shapr3d_nsbudapest.pdf](https://github.com/NSBudapest/NSBudapest/blob/m
 
 Twitter: [istvan_csanady](https://twitter.com/istvan_csanady)
 
-**Péter Wiesner (Skyscanner), Mobile engineering at the brink of scale**
+3
 ---
+
+**Péter Wiesner (Skyscanner), Mobile engineering at the brink of scale**
 
 Besides the giants like Facebook, Google and Twitter only a few smaller companies are able to work at scale. Skyscanner Budapest stepped on this exciting journey last year and set the goal: enable more and more engineers inside the company to work together on Skyscanner’s apps but at the same time keep our pace and fix release schedule that allows us iterative development.
 

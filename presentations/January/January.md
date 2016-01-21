@@ -7,7 +7,15 @@ Location: [Skyscanner](https://www.google.hu/maps/place/K%C3%A1roly+krt.+6,+Buda
 
 Meetup: [NSBudapest Meetup January](http://www.meetup.com/NSBudapest/events/227291358/)
 
-Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6tQwU), will be replaced with HQ video later
+Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6tQwU), will be replaced with HQ video later\
+
+0
+---
+**Agnes Vasarhelyi, NSBudapest opening intro**
+
+Few words about why we started this meetup and how it will roll in the future.
+
+Slides: [NSBudapest_intro.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/NSBudapest_intro.pdf)
 
 1
 ---

@@ -7,7 +7,7 @@ Location: [Skyscanner](https://www.google.hu/maps/place/K%C3%A1roly+krt.+6,+Buda
 
 Meetup: [NSBudapest Meetup January](http://www.meetup.com/NSBudapest/events/227291358/)
 
-Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6tQwU), will be replaced with HQ video later\
+Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6tQwU), will be replaced with HQ video later
 
 0
 ---

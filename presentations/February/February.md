@@ -5,7 +5,7 @@ Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057092,19.0544798,
 
 Meetup: [NSBudapest Meetup February](http://www.meetup.com/NSBudapest/events/228345081/)
 
-Video: [recorded live stream on Ustream](http://ustre.am/19DLd)
+Video: [recorded live stream on Ustream](http://www.ustream.tv/recorded/83357438)
 
 1
 ---

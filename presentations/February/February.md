@@ -15,6 +15,8 @@ Design thinking is a method collection that is very popular in software developm
 
 Prezi: [NSBudapest Meetup - DESIGN THINKING](https://prezi.com/hrqnflpkpi7l/nsbudapest-meetup-design-thinking/)
 
+Pdf: [NSBudapest_DT.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/NSBudapest_DT.pdf)
+
 Twitter: [zsukovacs](https://twitter.com/zsukovacs)
 
 2

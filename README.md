@@ -21,6 +21,8 @@ Talks are 15-20 minutes long, three at a time.
 
 ####[January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
 
+####[February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
+
 ###Interested in talking at the meetup?
 
 Just create an issue in this repository with describing the topic you would like to cover during your talk. Comments are welcome from everyone!

@@ -1,11 +1,11 @@
 # NSBudapest Meetup
 
-###[@nsbudapest](https://twitter.com/nsbudapest)
+##[@nsbudapest](https://twitter.com/nsbudapest)
 
 Welcome to our meetup's GitHub page. If you'd like to attend to the next event, RSVP on our [meetup.com page](http://www.meetup.com/NSBudapest/).
 
 ----------
-###NSBudapest is..
+##NSBudapest is..
 
 ..a group for people interested in iOS and Mac development. We :heart: quality code, testing, automation, craft beer and mad science in general. :rocket::rocket::rocket:
 
@@ -15,13 +15,15 @@ A place where you can find out how others do the technology. A place for getting
 
 ###How does an event look like?
 
-Talks are 15-20 minutes long, three at a time.
+Talks are 15-20 minutes long, two at a time, one break between them.
 
 ###Past events
 
 ####[January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
 
 ####[February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
+
+####[March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
 
 ###Interested in talking at the meetup?
 

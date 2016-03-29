@@ -1,34 +1,34 @@
 # NSBudapest Meetup
 
-##[@nsbudapest](https://twitter.com/nsbudapest)
+## [@nsbudapest](https://twitter.com/nsbudapest)
 
 Welcome to our meetup's GitHub page. If you'd like to attend to the next event, RSVP on our [meetup.com page](http://www.meetup.com/NSBudapest/).
 
 ----------
-##NSBudapest is..
+## NSBudapest is..
 
 ..a group for people interested in iOS and Mac development. We :heart: quality code, testing, automation, craft beer and mad science in general. :rocket::rocket::rocket:
 
-###What is a meetup?
+### What is a meetup?
 
 A place where you can find out how others do the technology. A place for getting to know each other. We are actually a community! :blush:
 
-###How does an event look like?
+### How does an event look like?
 
-Talks are 15-20 minutes long, two at a time, one break between them.
+Talks are 20-30 minutes long, two at a time, one break between them.
 
-##Past events
+## Past events
 
-###[January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
+### [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
 
-###[February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
+### [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
 
-###[March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
+### [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
 
-##Interested in talking at the meetup?
+## Interested in talking at the meetup?
 
 Just create an issue in this repository with describing the topic you would like to cover during your talk. Comments are welcome from everyone!
 
-> ##Code of Conduct
+## Code of Conduct
 
-> We stand for a Welcoming Community. At our meetups we encourage respectful smart conversations that help improvement and inspire innovation. Sexism, racism, and being an asshole in general is not appreciated. If you do so, get prepared to be challenged by meetup members, who will probably ask what's wrong with you.
+We stand for a Welcoming Community. At our meetups we encourage respectful smart conversations that help improvement and inspire innovation. Sexism, racism, and being an asshole in general is not appreciated. If you do so, get prepared to be challenged by meetup members, who will probably ask what's wrong with you.

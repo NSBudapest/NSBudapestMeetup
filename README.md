@@ -35,7 +35,7 @@ We stand for a Welcoming Community. At our meetups we encourage respectful smart
 
 ## Jobs board
 
-Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/jobs.pdf), we have a jobs board every month, based on the example of the [NSLondon meetup](http://www.meetup.com/NSLondon/).
+Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/NSBudapest jobs board March.pdf), we have a jobs board every month, based on the example of the [NSLondon meetup](http://www.meetup.com/NSLondon/).
 
 **You can add iOS, or Mac development jobs to the board, or yourself as someone looking for iOS, or Mac development related opportunities.**
 

@@ -41,4 +41,4 @@ Jobs board
 
 This is our first jobs board ever. If you miss what you've added to the doc in the spot, please check out this section about what do we expect to have in the jobs board and what we do not.
 
-[Jobs board March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/jobs.pdf)
+[Jobs board March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/NSBudapest jobs board March.pdf)

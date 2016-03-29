@@ -1,8 +1,9 @@
 # NSBudapest Meetup
 
-## [@nsbudapest](https://twitter.com/nsbudapest)
-
 Welcome to our meetup's GitHub page. If you'd like to attend to the next event, RSVP on our [meetup.com page](http://www.meetup.com/NSBudapest/).
+
+Follow [@nsbudapest](https://twitter.com/nsbudapest) on Twitter for updates regarding future events, and live tweets from the meetups.
+
 
 ----------
 ## NSBudapest is..

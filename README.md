@@ -44,7 +44,7 @@ Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/present
 
 ### How does it look like?
 
-There's a doc, that you can edit on the spot, at our meetup. One of our lovely organizers will open up a Macbook and leave it on stage, connected to the projector, during the break. It means you have 15 minutes to drop a few lines in the docs.
+There's a doc, that you can edit on the spot, at our meetup. One of our lovely organizers will open up a Macbook and leave it on stage, connected to the projector, during the break. It means you have 15 minutes to drop a few lines into the board.
 
 ### How can I post a job?
 
@@ -58,7 +58,7 @@ Sample:
 
 ### What if I'm looking for a job?
 
-Add a few lines about yourself and what you're looking for and a contact, like:
+Add a few lines about yourself and what you're looking for with a contact, like:
 
 > I'm Joe, an iOS developer with 3 years of experience with mid-sized iOS apps and some backend stuff, currently doing indie and looking for new adventures in a smaller team. Please contact me if you're a cool startup, or a hip agency, preferably in Budapest, but I'm willing to relocate inside the EU as well. My email is [joe@joesmail.com](). Here's my [LinkedIn]() and [Twitter]() profile.
 
@@ -66,4 +66,4 @@ Add a few lines about yourself and what you're looking for and a contact, like:
 
 It got moderated then. After the first jobs board, we went through all the ads and found Android and web development related ads. We discussed it a lot with other people, who's in communities like this since years and we figured that in the privilege of the community - _you_ included - **there is no place for non-iOS/Mac development ads on the board**.
 
-Please understand this, and don't forget what you get, when advertising iOS/Mac development jobs.
+Please understand this, and don't forget what you get in the meantime.

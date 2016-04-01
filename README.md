@@ -40,7 +40,7 @@ Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/present
 
 **You can add iOS, or Mac development jobs to the board, or yourself as someone looking for iOS, or Mac development related opportunities.**
 
-*We're going to upload the board every month as a pdf to this repository under the given month along with the presentations, and send the link of the board to the event on meetup.com.*
+*We're going to upload the board every month to this repository under the given month along with the presentations, and send the link of the board to the event on meetup.com.*
 
 ### How does it look like?
 

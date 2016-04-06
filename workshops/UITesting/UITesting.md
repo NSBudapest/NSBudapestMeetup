@@ -20,4 +20,5 @@ We created a coding exercise from a dummy Todo app. The project was to fill out 
 Please follow the installation instructions in the projects' Readme, especially in case of the Swift version, since there's a difference in case of using older version of Xcode.
 
 TodoList Objective-C version: https://github.com/NSBudapest/TodoList-ObjC
+
 TodoList Swift version: https://github.com/NSBudapest/TodoList-Swift

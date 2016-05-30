@@ -29,7 +29,7 @@ Twitter: [H2CO3_iOS](https://twitter.com/H2CO3_iOS)
 2
 ---
 
-**David Kovacs (CTO @ [Supercharge](https://twitter.com/TeamSupercharge)): Robust iOS UI testing **
+**David Kovacs (CTO @ [Supercharge](https://twitter.com/TeamSupercharge)): Robust iOS UI testing**
 
 Topics covered:
 

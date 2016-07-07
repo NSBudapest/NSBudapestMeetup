@@ -5,7 +5,9 @@ Info
 
 :construction: Meetup: [NSBudapest Meetup June](http://www.meetup.com/NSBudapest/events/231529833/)
 
-:video_camera: Video: recorded video coming soon
+:video_camera: Video: 
+1. [Pedro Piñera - Framework Oriented Programming](https://t.co/uN4nR92ZU8)
+2. [Radek Pietruszewski - Dependent Types](https://t.co/nzdWXUAwlp)
 
 1
 ---

@@ -34,9 +34,9 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 Just create an issue in this repository with describing the topic you would like to cover during your talk. Comments are welcome from everyone!
 
-## Code of Conduct
+## Workshops
 
-We stand for a Welcoming Community. At our meetups we encourage respectful smart conversations that help improvement and inspire innovation. Sexism, racism, and being an asshole in general is not appreciated. If you do so, get prepared to be challenged by meetup members, who will probably ask what's wrong with you.
+In April we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Workshops/UITesting/UITesting.md).
 
 ## Jobs board
 
@@ -48,6 +48,6 @@ Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/present
 
 For more information and past boards click [here]()!
 
-## Workshops
+## Code of Conduct
 
-In April we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Workshops/UITesting/UITesting.md).
+We stand for a Welcoming Community. At our meetups we encourage respectful smart conversations that help improvement and inspire innovation. Sexism, racism, and being an asshole in general is not appreciated. If you do so, get prepared to be challenged by meetup members, who will probably ask what's wrong with you.

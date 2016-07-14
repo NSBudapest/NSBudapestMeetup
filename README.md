@@ -40,13 +40,13 @@ In April we organized our very first workshop, which was a huge success. You can
 
 ## Jobs board
 
-Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/jobs.md), we have a jobs board every month, based on the example of the [NSLondon meetup](http://www.meetup.com/NSLondon/).
+Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/March.md), we have a jobs board every month, based on the example of the [NSLondon meetup](http://www.meetup.com/NSLondon/).
 
 **You can add iOS, or macOS development jobs to the board, or yourself as someone looking for iOS, or macOS development related opportunities.**
 
 *We're going to upload the board every month to this repository under the given month along with the presentations, and send the link of the board to the event on meetup.com.*
 
-For more information and past boards click [here]()!
+For more information and past boards click [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/Jobs.md)!
 
 ## Code of Conduct
 

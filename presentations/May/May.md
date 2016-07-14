@@ -50,4 +50,4 @@ Jobs board
 
 This is our first jobs board ever. If you miss what you've added to the doc in the spot, please check out [this section](https://github.com/NSBudapest/NSBudapestMeetup#jobs-board) about what do we expect to have in the jobs board and what we do not.
 
-[Jobs board May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/May.md)
+:clipboard: [Jobs board May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/May.md)

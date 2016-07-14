@@ -22,12 +22,12 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ### 2016
 
-- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/January/January.md) 
-- [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/February/February.md)
-- [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/March/March.md)
-- [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/April/April.md)
-- [x] [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/May/May.md)
-- [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/June/June.md)
+- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md) 
+- [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
+- [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
+- [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/April/April.md)
+- [x] [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/May.md)
+- [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/June.md)
 
 ## Interested in talking at the meetup?
 
@@ -35,7 +35,7 @@ Just create an issue in this repository with describing the topic you would like
 
 ## Workshops
 
-In April we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Workshops/UITesting/UITesting.md).
+In April we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/workshops/UITesting/UITesting.md).
 
 ## Jobs board
 

@@ -1,11 +1,11 @@
 Info
 ===========
 
-Location: [Ustream](https://goo.gl/maps/4yi7sawY6yF2)
+:round_pushpin: Location: [Ustream](https://goo.gl/maps/4yi7sawY6yF2)
 
-Meetup: [NSBudapest Meetup May](http://www.meetup.com/NSBudapest/events/231072689/)
+:hammer: Meetup: [NSBudapest Meetup May](http://www.meetup.com/NSBudapest/events/231072689/)
 
-Video: recorded Ustream video coming soon
+:video_camera: Video: recorded Ustream video coming soon
 
 1
 ---
@@ -24,7 +24,7 @@ Topics that will be covered:
 
 Slides: [Non-Pessimizations in the Swift Compiler.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/Non-Pessimizations in the Swift Compiler.pdf)
 
-Twitter: [H2CO3_iOS](https://twitter.com/H2CO3_iOS)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@H2CO3_iOS](https://twitter.com/H2CO3_iOS)
 
 2
 ---
@@ -43,11 +43,11 @@ Topics covered:
 
 Slides: [NSBudapest Building Robust UI Tests.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/NSBudapest Building Robust UI Tests.pdf)
 
-Twitter: [davidkovaccs](https://twitter.com/davidkovaccs)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@davidkovaccs](https://twitter.com/davidkovaccs)
 
 Jobs board
 ---
 
 This is our first jobs board ever. If you miss what you've added to the doc in the spot, please check out [this section](https://github.com/NSBudapest/NSBudapestMeetup#jobs-board) about what do we expect to have in the jobs board and what we do not.
 
-[Jobs board May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/jobs.md)
+[Jobs board May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/May.md)

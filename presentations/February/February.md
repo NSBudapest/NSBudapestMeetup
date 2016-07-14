@@ -1,11 +1,11 @@
 Info
 ===========
 
-Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057092,19.0544798,17z)
+:round_pushpin: Location: [Prezi](https://www.google.hu/maps/place/Prezi/@47.5057092,19.0544798,17z)
 
-Meetup: [NSBudapest Meetup February](http://www.meetup.com/NSBudapest/events/228345081/)
+:sparkles: Meetup: [NSBudapest Meetup February](http://www.meetup.com/NSBudapest/events/228345081/)
 
-Video: [recorded live stream on Ustream](http://www.ustream.tv/recorded/83357438)
+:video_camera: Video: [recorded live stream on Ustream](http://www.ustream.tv/recorded/83357438)
 
 1
 ---
@@ -15,9 +15,9 @@ Design thinking is a method collection that is very popular in software developm
 
 Prezi: [NSBudapest Meetup - DESIGN THINKING](https://prezi.com/hrqnflpkpi7l/nsbudapest-meetup-design-thinking/)
 
-Pdf: [NSBudapest_DT.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/NSBudapest_DT.pdf)
+PDF: [NSBudapest_DT.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/NSBudapest_DT.pdf)
 
-Twitter: [zsukovacs](https://twitter.com/zsukovacs)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@zsukovacs](https://twitter.com/zsukovacs)
 
 2
 ---
@@ -33,7 +33,7 @@ In the end I'll talk about the new way of how it should be done in iOS9.
 
 Slides: [NSBud_Building_large_product_from_reusable_components.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/NSBud_Building_large_product_from_reusable_components.pdf)
 
-Twitter: [davidkovaccs](https://twitter.com/davidkovaccs)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@davidkovaccs](https://twitter.com/davidkovaccs)
 
 3
 ---
@@ -49,6 +49,6 @@ We will talk about:
 
 Prezi: [Pursuing 60 fps](https://prezi.com/tmwogkeaa9pl/pursuing-60-fps)
 
-Pdf: [60fps.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/60fps.pdf)
+PDF: [60fps.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/60fps.pdf)
 
-Twitter: [TamasZahola](https://twitter.com/TamasZahola)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@TamasZahola](https://twitter.com/TamasZahola)

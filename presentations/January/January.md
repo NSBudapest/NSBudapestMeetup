@@ -3,11 +3,11 @@ Info
 
 It was our first meetup.
 
-Location: [Skyscanner](https://www.google.hu/maps/place/K%C3%A1roly+krt.+6,+Budapest,+1052/@47.494654,19.0571683,17z)
+:round_pushpin: Location: [Skyscanner](https://www.google.hu/maps/place/K%C3%A1roly+krt.+6,+Budapest,+1052/@47.494654,19.0571683,17z)
 
-Meetup: [NSBudapest Meetup January](http://www.meetup.com/NSBudapest/events/227291358/)
+:rocket: Meetup: [NSBudapest Meetup January](http://www.meetup.com/NSBudapest/events/227291358/)
 
-Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6tQwU), will be replaced with HQ video later
+:video_camera: Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6tQwU), will be replaced with HQ video later
 
 0
 ---
@@ -16,6 +16,8 @@ Video: [from the live stream on YouTube](https://www.youtube.com/watch?v=LKDBEi6
 Few words about why we started this meetup and how it will roll in the future.
 
 Slides: [NSBudapest_intro.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/NSBudapest_intro.pdf)
+
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@vasarhelyia](https://twitter.com/vasarhelyia)
 
 1
 ---
@@ -27,7 +29,7 @@ Swift is Apple's recently created programming language with no source or link-ti
 
 Slides: [NSBudapest - lorentey - Swift.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/NSBudapest - lorentey - Swift.pdf)
 
-Twitter: [lorentey](https://twitter.com/lorentey)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@lorentey](https://twitter.com/lorentey)
 
 2
 ---
@@ -42,7 +44,7 @@ Intro about the app: https://www.facebook.com/shapr3d/videos/739858942781269/?th
 
 Slides: [shapr3d_nsbudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/shapr3d_nsbudapest.pdf)
 
-Twitter: [istvan_csanady](https://twitter.com/istvan_csanady)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@istvan_csanady](https://twitter.com/istvan_csanady)
 
 3
 ---
@@ -59,4 +61,4 @@ We haven't reached the end of our journey yet, however we think that our first l
 
 Slides: [skyscanner_eng.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/skyscanner_eng.pdf)
 
-Twitter: [peter_a_wiesner](https://twitter.com/peter_a_wiesner)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@peter_a_wiesner](https://twitter.com/peter_a_wiesner)

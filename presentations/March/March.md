@@ -1,11 +1,11 @@
 Info
 ===========
 
-Location: [Ustream](https://goo.gl/maps/4yi7sawY6yF2)
+:round_pushpin: Location: [Ustream](https://goo.gl/maps/4yi7sawY6yF2)
 
-Meetup: [NSBudapest Meetup March](http://www.meetup.com/NSBudapest/events/229251392/)
+:truck: Meetup: [NSBudapest Meetup March](http://www.meetup.com/NSBudapest/events/229251392/)
 
-Video: recorded Ustream video coming soon
+:video_camera: Video: recorded Ustream video coming soon
 
 1
 ---
@@ -15,7 +15,7 @@ The essence of the product development process is not the implementation itself,
 
 Slides: [Validate your ideas.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/Validate your ideas.pdf)
 
-Twitter: [anedera](https://twitter.com/anedera)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@anedera](https://twitter.com/anedera)
 
 2
 ---
@@ -34,11 +34,11 @@ I will cover the following topics in my talk:
 
 Slides: [Release iOS apps.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/Release iOS apps.pdf)
 
-Twitter: [csabb](https://twitter.com/csabb)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@csabb](https://twitter.com/csabb)
 
 Jobs board
 ---
 
 This is our first jobs board ever. If you miss what you've added to the doc in the spot, please check out [this section](https://github.com/NSBudapest/NSBudapestMeetup#jobs-board) about what do we expect to have in the jobs board and what we do not.
 
-[Jobs board March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/jobs.md)
+:clipboard: [Jobs board March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/March.md)

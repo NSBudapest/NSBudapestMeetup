@@ -32,6 +32,7 @@ Remember, there are several meetups out there who might going to follow our exam
 
 ### 2016
 
-- [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/March.md) 
-- [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/May.md) 
-- [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/June.md) 
+- [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/March.md)
+- [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/May.md)
+- [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/June.md)
+- [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/August.md)

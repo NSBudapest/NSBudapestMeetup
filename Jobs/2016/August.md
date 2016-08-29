@@ -6,7 +6,7 @@ We’re looking for iOS developers to extend our totally geek & very friendly te
 
 ————————————————————————————————————————————————
 
-Come and join our passionate team full of young and creative professionals! You are looking for a motivated junior (minimum 1yr exp) or mid level, full-time iOS developer who is committed to collaborate in problem solving and the creation of quality products. Swift knowledge is an advantage. Contact me at [david.lajos@tappointment.com](mailto:david.lajos@tappointment.com)
+Come and join our passionate team full of young and creative professionals! We are looking for a motivated junior (minimum 1yr exp) or mid level, full-time iOS developer who is committed to collaborate in problem solving and the creation of quality products. Swift knowledge is an advantage. Contact me at [david.lajos@tappointment.com](mailto:david.lajos@tappointment.com)
 
 ————————————————————————————————————————————————
 

@@ -15,7 +15,7 @@ The full development, marketing and management stack of an app startup.
 
 Slides: [From 0101 to the Facebook ads.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/From 0101 to the Facebook ads.pdf)
 
-:video_camera: Video: [From 0101 to the Facebook ads.pdf](http://www.ustream.tv/recorded/90772781)
+:video_camera: Video: [From 0101 to the Facebook ads](http://www.ustream.tv/recorded/90772781)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@istvan_csanady](https://twitter.com/istvan_csanady)
 

@@ -22,12 +22,14 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ### 2016
 
-- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md) 
+- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
 - [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
 - [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
 - [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/April/April.md)
 - [x] [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/May.md)
 - [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/June.md)
+- [ ] ~~July~~ (Summer break :sunny:)
+- [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/August.md)
 
 ## Interested in talking at the meetup?
 

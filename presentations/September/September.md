@@ -1,37 +1,35 @@
 Info
 ===========
 
-:round_pushpin: Location: [Ustream](https://goo.gl/maps/4yi7sawY6yF2)
+:round_pushpin: Location: [Skyscanner](https://goo.gl/maps/ALYxmkHwH9R2)
 
-:sunny: Meetup: [NSBudapest Meetup August](https://www.meetup.com/NSBudapest/events/233207731/)
+:earth_africa: Meetup: [NSBudapest Meetup September](https://www.meetup.com/NSBudapest/events/233935833/)
 
 
 
-1
+1.
 ---
-**Istvan Csanady (Founder of [Shapr3D](https://twitter.com/Shapr3D)): From 0101 to the Facebook ads**
+**Balázs Bajorics (developer [@Prezi](https://prezi.com), co-creator of [hollr](https://hollr.social)): React Native**
 
-The full development, marketing and management stack of an app startup.
+Basic intro and Stuff.
 
-Slides: [From 0101 to the Facebook ads.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/From 0101 to the Facebook ads.pdf)
+Slides: [hollr.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/hollr.pdf)
 
-:video_camera: Video: [From 0101 to the Facebook ads](http://www.ustream.tv/recorded/90772781)
+:video_camera: Video: [React Native](http://www.ustream.tv/recorded/92148460)
 
-![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@istvan_csanady](https://twitter.com/istvan_csanady)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@bayjorix](https://twitter.com/bayjorix)
 
 2
 ---
 
-**Gabor Nagy Farkas (iOS engineer @[CryptTalk](http://www.crypttalk.com)): Playing with Instruments**
+**Daniel Haight (iOS developer, organiser [@NSLondon](http://www.meetup.com/NSLondon/)): Easy Complex UIControls**
 
-How to write better apps using data from Instruments.
+Slides: [EasyComplexUIControls.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/EasyComplexUIControls.pdf)
 
-Slides: [PlayingWithInstruments.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/PlayingWithInstruments.pdf)
+:video_camera: Video: [Easy Complex UIControls](http://www.ustream.tv/recorded/92345023)
 
-:video_camera: Video: [Playing with Instruments](http://www.ustream.tv/recorded/90773690)
-
-![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@nfgabor](https://twitter.com/nfgabor)
+![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@Daniel1of1](https://twitter.com/daniel1of1)
 
 ___
 
-:clipboard: [Jobs board August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/August.md)
+:clipboard: [Jobs board September](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/September.md)

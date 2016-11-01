@@ -30,6 +30,7 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 - [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/June.md)
 - [ ] ~~July~~ (Summer break :sunny:)
 - [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/August.md)
+- [x] [September](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/September.md)
 
 ## Interested in talking at the meetup?
 

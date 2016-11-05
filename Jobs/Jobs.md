@@ -37,3 +37,4 @@ Remember, there are several meetups out there who might going to follow our exam
 - [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/June.md)
 - [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/August.md)
 - [September](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/September.md)
+- [October](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/October.md)

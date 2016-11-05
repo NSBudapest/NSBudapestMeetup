@@ -34,4 +34,4 @@ Slides: [Dependent Types.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blo
 
 ___
 
-:clipboard: [Jobs board June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/jobs.md)
+:clipboard: [Jobs board June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/June.md)

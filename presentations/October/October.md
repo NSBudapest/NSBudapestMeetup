@@ -27,9 +27,9 @@ Slides: Coming soon...
 
 **Agnes Vasarhelyi (iOS developer [@Ustream](http://www.ustream.tv)): Stylesheets on iOS**
 
-An interesting approach on UI development, with a lot of advantages not just on the code, but on the team level as well. Let's go through some examples together to see how it works on iOS. 
+An interesting approach on UI development, with a lot of advantages not just on the code, but on the team level as well. Let's go through some examples together to see how it works on iOS.
 
-Slides:  Coming soon...
+Slides:  [iOS_UI.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/iOS_UI.pdf)
 
 :video_camera: Video: Coming soon...
 

@@ -16,7 +16,7 @@ The new platform offers the ability for developers to create and submit applicat
 
 In this talk I’ll introduce you this platform: we’ll talk about the core concept of tvOS, the concept of navigation and some development related topics too.
 
-Slides: Coming soon...
+Slides:  [tvOS.NSBudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/tvOS.NSBudapest.pdf)
 
 :video_camera: Video: Coming soon...
 

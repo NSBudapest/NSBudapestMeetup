@@ -18,7 +18,7 @@ In this talk I’ll introduce you this platform: we’ll talk about the core con
 
 Slides:  [tvOS.NSBudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/tvOS.NSBudapest.pdf)
 
-:video_camera: Video: Coming soon...
+:video_camera: [Gergo Nemeth's talk on Ustream](http://www.ustream.tv/recorded/92829253)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@reden87](https://twitter.com/reden87)
 
@@ -31,7 +31,7 @@ An interesting approach on UI development, with a lot of advantages not just on 
 
 Slides:  [iOS_UI.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/iOS_UI.pdf)
 
-:video_camera: Video: Coming soon...
+:video_camera: [Agnes Vasarhelyi's talk on Ustream](http://www.ustream.tv/recorded/92829254)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@vasarhelyia](https://twitter.com/vasarhelyia)
 

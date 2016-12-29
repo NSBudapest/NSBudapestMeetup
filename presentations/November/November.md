@@ -26,7 +26,7 @@ Slides:  [NSBudapest-Xamarin.pdf](https://github.com/NSBudapest/NSBudapestMeetup
 
 Gergely is going to tell you a story how they have validated and developed an app for an offering.
 
-Slides:  [iOS_UI.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/November/b2b.pdf)
+Slides:  [b2b.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/November/b2b.pdf)
 
 :video_camera: [Gergely Schmidt's talk on Ustream](http://www.ustream.tv/recorded/92829254)
 

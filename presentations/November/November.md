@@ -3,7 +3,7 @@ Info
 
 :round_pushpin: Location: [Ustream](https://goo.gl/maps/p5vkz7fLip22)
 
-:ghost: Meetup: [NSBudapest Meetup November](https://www.meetup.com/NSBudapest/events/234777765/)
+:snowman: Meetup: [NSBudapest Meetup November](https://www.meetup.com/NSBudapest/events/235693751/)
 
 
 

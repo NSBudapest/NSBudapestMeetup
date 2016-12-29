@@ -33,3 +33,5 @@ Slides:  [b2b.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/pr
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@sgergely](https://twitter.com/sgergely)
 
 ___
+
+:clipboard: [Jobs board November](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/November.md)

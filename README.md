@@ -20,20 +20,24 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ## Past events
 
+### 2017
+
+
+
 ### 2016
 
-- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
-- [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
-- [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
-- [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/April/April.md)
-- [x] [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/May.md)
-- [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/June.md)
-- [ ] ~~July~~ (Summer break :sunny:)
-- [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/August.md)
-- [x] [September](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/September.md)
-- [x] [October](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/October.md)
-- [x] [November](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/November/November.md)
 - [ ] ~~December~~ (Winter break :christmas_tree: :wine_glass:)
+- [x] [November](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/November/November.md)
+- [x] [October](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/October.md)
+- [x] [September](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/September.md)
+- [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/August.md)
+- [ ] ~~July~~ (Summer break :sunny:)
+- [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/June.md)
+- [x] [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/May.md)
+- [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/April/April.md)
+- [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
+- [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
+- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
 
 ## Interested in talking at the meetup?
 

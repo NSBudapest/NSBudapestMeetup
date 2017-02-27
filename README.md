@@ -22,6 +22,7 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ### 2017
 
+- [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/February/February.md)
 - [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/January/January.md)
 
 ### 2016

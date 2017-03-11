@@ -26,7 +26,7 @@ Slides: TBA
 
 "This is an expanded version of a talk I gave on dotSwift 2017 last month. I describe several ways to implement the same simple ordered set protocol in Swift, demonstrating how the language supports a number of surprisingly different approaches to programming. At every step, we trade extra complexity for improved runtime performance, ending on an implementation that is ludicrously fast but also quite difficult to handle."
 
-Slides: TBA
+Slides: [Speaker Deck](https://speakerdeck.com/lorentey/optimizing-swift-collections)
 
 :video_camera: [Karoly Lorentey's talk on Ustream](http://www.ustream.tv/recorded/99991057)
 

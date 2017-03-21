@@ -1,4 +1,4 @@
-We are looking for a passionate full-time iOS developer to join our team. Contact me at [vasarhelyi.agnes@ustream.tv](mailto:vasarhelyi.agnes@ustream.tv).
+We are looking for a passionate full-time iOS developer to join our team. Contact me at [peter.szilagyi@hu.ibm.com](mailto:peter.szilagyi@hu.ibm.com).
 
 We are looking for passionate full-time iOS/macOS developers to join our team. Contact me at [tamas.lustyik@prezi.com](mailto:tamas.lustyik@prezi.com)
 

@@ -13,4 +13,4 @@ Help us develop TWINT, Switzerland’s leading mobile transactions platform. But
 
 -----------
 
-We’re looking for iOS developers to extend our totally geek & very friendly team at Ustream. 📺 Ping me if you’re interested in working on apps with huge user base in definitely the coolest office of Budapest with flexible hours and infinite Turo Rudi - [vasarhelyi.agnes@ustream.tv](mailto:vasarhelyi.agnes@ustream.tv). https://www.ustream.tv/our-company/career/budapest/ios-developer
+We’re looking for iOS developers to extend our totally geek & very friendly team at Ustream. 📺 Ping me if you’re interested in working on apps with huge user base in definitely the coolest office of Budapest with flexible hours and infinite Turo Rudi - [peter.szilagyi@hu.ibm.com](mailto:peter.szilagyi@hu.ibm.com). https://www.ustream.tv/our-company/career/budapest/ios-developer

@@ -1,5 +1,5 @@
 We are looking for passionate full-time OS X developer to join our team. iOS developers as well!
-https://www.ustream.tv/our-company/career/budapest. Contact me at [david@ustream.tv](mailto:david@ustream.tv).
+https://www.ustream.tv/our-company/career/budapest. Contact me at [peter.szilagyi@hu.ibm.com](mailto:peter.szilagyi@hu.ibm.com).
 
 ——————————————————————-———————————-————-
 

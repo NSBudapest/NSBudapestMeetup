@@ -22,4 +22,4 @@ Slides: coming soon!
 
 ___
 
-:clipboard: [Jobs board February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2017/March.md)
+:clipboard: [Job board March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2017/March.md)

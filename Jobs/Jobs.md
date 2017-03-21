@@ -1,4 +1,4 @@
-# NSBudapest Jobs board :clipboard:
+# NSBudapest Job board :clipboard:
 
 ----------
 
@@ -24,11 +24,16 @@ Add a few lines about yourself and what you're looking for with a contact, like:
 
 ### What if I've added an ad and I can't seem to find it in the uploaded version?
 
-It got moderated then. After the first jobs board, we went through all the ads and found Android and web development related ads. We discussed it a lot with other people, who's in communities like this since years and we figured that in the privilege of the community - you included - **there is no place for non-iOS/Mac development job ads on the board**.
+It got moderated then. After the first job board, we went through all the ads and found Android and web development related ads. We discussed it a lot with other people, who's in communities like this since years and we figured that in the privilege of the community - you included - **there is no place for non-iOS/Mac development job ads on the board**.
 
 Remember, there are several meetups out there who might going to follow our example, as we did NSLondon's. Wouldn't it be the best if they'd hold on to the same standards too, so _you_ can make sure _you_ have the target audience when advertising?
 
-## Jobs boards
+## Job boards
+
+### 2017
+
+- [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2017/March.md)
+- [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2017/February.md)
 
 ### 2016
 

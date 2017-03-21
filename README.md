@@ -22,6 +22,7 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ### 2017
 
+- [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/February/March.md)
 - [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/February/February.md)
 - [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/January/January.md)
 
@@ -48,11 +49,11 @@ Just create an issue in this repository with describing the topic you would like
 
 In April we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/workshops/UITesting/UITesting.md).
 
-## Jobs board
+## Job board
 
-Since [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Jobs/2016/March.md), we have a jobs board every month, based on the example of the [NSLondon meetup](http://www.meetup.com/NSLondon/).
+We have a monthly job board, based on the example of the [NSLondon meetup](http://www.meetup.com/NSLondon/).
 
-**You can add iOS, or macOS development jobs to the board, or yourself as someone looking for iOS, or macOS development related opportunities.**
+**You can add iOS, or macOS dev jobs to the board, or yourself as someone looking for iOS, or macOS dev opportunities.**
 
 *We're going to upload the board every month to this repository under the given month along with the presentations, and send the link of the board to the event on meetup.com.*
 

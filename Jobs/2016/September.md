@@ -1,4 +1,4 @@
-# NSBudapest jobs board September
+# NSBudapest job board September
 
 Fellow Swift Developers!
 

@@ -14,7 +14,7 @@ When starting to write code in Swift, many of us have had to rethink the way we 
 
 *John has been building apps, tools and games for Apple's platforms since the early days of the iOS SDK. He has built apps and frameworks for companies like Volvo and Spotify, and is the creator of many widely used iOS open source projects. These days, he’s working for Hyper Oslo, while continuing his open source adventure and spending whatever time is left on creating indie games.*
 
-Slides: Slides: [Swift Testing.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/March/Swift Testing.pdf)
+Slides: [Swift Testing.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/March/SwiftTesting.pdf)
 
 :video_camera: [John Sundell's talk on Ustream](http://www.ustream.tv/recorded/101118612)
 

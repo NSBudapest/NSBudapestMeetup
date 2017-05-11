@@ -3,7 +3,7 @@ Info
 
 :round_pushpin: Location: [Ustream](https://goo.gl/maps/p5vkz7fLip22)
 
-:sunny: Meetup: [NSBudapest Meetup April](https://www.meetup.com/NSBudapest/events/238405994/)
+:rocket: Meetup: [NSBudapest Meetup April](https://www.meetup.com/NSBudapest/events/238405994/)
 
 1
 ---
@@ -24,7 +24,7 @@ Slides: [CodeGeneration.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob
 2
 ---
 
-**Felix Krause ((Creator of @[fastlane.tools](https://fastlane.tools) @[Google](https://careers.google.com))): Building your first fastlane plugin**
+**Felix Krause (Creator of @[fastlane.tools](https://fastlane.tools) @[Google](https://careers.google.com)): Building your first fastlane plugin**
 
 :video_camera: Video: [Building your first fastlane plugin](http://www.ustream.tv/recorded/103135676)
 

@@ -22,6 +22,7 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ### 2017
 
+- [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/April/April.md)
 - [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/March/March.md)
 - [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/February/February.md)
 - [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/January/January.md)
@@ -29,17 +30,17 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 ### 2016
 
 - [ ] ~~December~~ (Winter break :christmas_tree: :wine_glass:)
-- [x] [November](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/November/November.md)
-- [x] [October](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/October.md)
-- [x] [September](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/September.md)
-- [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/August.md)
+- [x] [November](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/November/November.md)
+- [x] [October](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/October/October.md)
+- [x] [September](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/September/September.md)
+- [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/August/August.md)
 - [ ] ~~July~~ (Summer break :sunny:)
-- [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/June.md)
-- [x] [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/May.md)
-- [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/April/April.md)
-- [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/March.md)
-- [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/February.md)
-- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/January.md)
+- [x] [June](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/June/June.md)
+- [x] [May](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/May/May.md)
+- [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/April/April.md)
+- [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/March/March.md)
+- [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/February/February.md)
+- [x] [January](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2016/January/January.md)
 
 ## Interested in talking at the meetup?
 
@@ -47,7 +48,7 @@ Just create an issue in this repository with describing the topic you would like
 
 ## Workshops
 
-In April we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/workshops/UITesting/UITesting.md).
+In April 2016 we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/workshops/UITesting/UITesting.md).
 
 ## Job board
 

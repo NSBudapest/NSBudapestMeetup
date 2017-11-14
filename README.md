@@ -22,7 +22,7 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ### 2017
 
-- [x] [October]()
+- [x] [October](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/October/October.md)
 - [x] [September - Realm World Tour Budapest](https://www.eventbrite.com/e/realm-world-tour-budapest-tickets-36966053461#)
 - [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/August/August.md)
 - [x] [July - Summer Beers :sunny:](https://www.meetup.com/NSBudapest/events/241810670/)

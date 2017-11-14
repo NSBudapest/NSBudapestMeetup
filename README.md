@@ -24,7 +24,7 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 - [x] [October]()
 - [x] [September - Realm World Tour Budapest](https://www.eventbrite.com/e/realm-world-tour-budapest-tickets-36966053461#)
-- [x] [August]()
+- [x] [August](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/August/August.md)
 - [x] [July - Summer Beers :sunny:](https://www.meetup.com/NSBudapest/events/241810670/)
 - [x] [June - WWDC Keynote Party](https://www.meetup.com/NSBudapest/events/240079386/)
 - [ ] ~~May~~

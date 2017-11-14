@@ -22,6 +22,12 @@ Talks are 20-30 minutes long, two at a time, one break between them.
 
 ### 2017
 
+- [x] [October]()
+- [x] [September - Realm World Tour Budapest](https://www.eventbrite.com/e/realm-world-tour-budapest-tickets-36966053461#)
+- [x] [August]()
+- [x] [July - Summer Beers :sunny:](https://www.meetup.com/NSBudapest/events/241810670/)
+- [x] [June - WWDC Keynote Party](https://www.meetup.com/NSBudapest/events/240079386/)
+- [ ] ~~May~~
 - [x] [April](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/April/April.md)
 - [x] [March](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/March/March.md)
 - [x] [February](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/February/February.md)
@@ -49,6 +55,10 @@ Just create an issue in this repository with describing the topic you would like
 ## Workshops
 
 In April 2016 we organized our very first workshop, which was a huge success. You can find more information [here](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/workshops/UITesting/UITesting.md).
+
+## Communication
+
+We have our own Slack channel, if you would like to join ping [@gabornagyfarkas](https://twitter.com/nfgabor) for an invite.
 
 ## Job board
 

@@ -22,7 +22,7 @@ Topics that will be covered:
   - inout shadow variable elimination
   - Unification of closures and free functions.
 
-Slides: [Non-Pessimizations in the Swift Compiler.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/Non-Pessimizations in the Swift Compiler.pdf)
+Slides: [Non-Pessimizations in the Swift Compiler.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/May/Non-Pessimizations in the Swift Compiler.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@H2CO3_iOS](https://twitter.com/H2CO3_iOS)
 
@@ -41,7 +41,7 @@ Topics covered:
 - UI testing user journeys
 - Testing & CI
 
-Slides: [NSBudapest Building Robust UI Tests.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/May/NSBudapest Building Robust UI Tests.pdf)
+Slides: [NSBudapest Building Robust UI Tests.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/May/NSBudapest Building Robust UI Tests.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@davidkovaccs](https://twitter.com/davidkovaccs)
 

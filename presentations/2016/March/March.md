@@ -13,7 +13,7 @@ Info
 
 The essence of the product development process is not the implementation itself, but understanding what we should build and how, and which ideas we should forget. Experimenting in the iOS world is tricky, as you need to build working solutions for every experiment - but if you focus more on discovering the user needs and collecting user feedback before building the feature, you can reduce the risk of wasted time and effort. I'd like to show a few tips and tricks for validating ideas before releasing them to the wider public.
 
-Slides: [Validate your ideas.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/Validate your ideas.pdf)
+Slides: [Validate your ideas.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/March/Validate your ideas.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@anedera](https://twitter.com/anedera)
 
@@ -32,7 +32,7 @@ I will cover the following topics in my talk:
 - How to support your iOS release with monitoring and alerting
 - Releasing iOS, Android or web apps - why are those different?
 
-Slides: [Release iOS apps.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/March/Release iOS apps.pdf)
+Slides: [Release iOS apps.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/March/Release iOS apps.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@csabb](https://twitter.com/csabb)
 

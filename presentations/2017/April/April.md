@@ -13,7 +13,7 @@ Swift is a great, type safe and powerful language. But some stuff are still cumb
 
 In this talk we'll discover some popular tools to do code generation for Swift, especially Sourcery and SwiftGen. We'll see how they work, what you can do with them, some concrete and advanced examples of how your code can be made safer, and how you can save a lot of development time thanks to those tools.
 
-Slides: [CodeGeneration.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/April/CodeGeneration.pdf) & also available on [SpeakerDeck](https://speakerdeck.com/alisoftware/code-generation-in-swift-live-demo-nsbudapest-04-dot-2017)
+Slides: [CodeGeneration.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/2017/April/CodeGeneration.pdf) & also available on [SpeakerDeck](https://speakerdeck.com/alisoftware/code-generation-in-swift-live-demo-nsbudapest-04-dot-2017)
 
 :octocat: Demo project: [CodeGenDemo](https://github.com/AliSoftware/CodeGenDemo)
 

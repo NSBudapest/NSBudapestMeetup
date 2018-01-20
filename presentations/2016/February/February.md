@@ -15,7 +15,7 @@ Design thinking is a method collection that is very popular in software developm
 
 Prezi: [NSBudapest Meetup - DESIGN THINKING](https://prezi.com/hrqnflpkpi7l/nsbudapest-meetup-design-thinking/)
 
-PDF: [NSBudapest_DT.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/NSBudapest_DT.pdf)
+PDF: [NSBudapest_DT.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/February/NSBudapest_DT.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@zsukovacs](https://twitter.com/zsukovacs)
 
@@ -31,7 +31,7 @@ But how can we easily build screens from these components? Up until now iOS did 
 We have developed a layout engine called SCComponentCollection that's meant to solve this problem. It is lightweight and can be applied for various use-cases. I will demonstrate the solution and share the motivations behind it along with architectural tips.
 In the end I'll talk about the new way of how it should be done in iOS9.
 
-Slides: [NSBud_Building_large_product_from_reusable_components.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/NSBud_Building_large_product_from_reusable_components.pdf)
+Slides: [NSBud_Building_large_product_from_reusable_components.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/February/NSBud_Building_large_product_from_reusable_components.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@davidkovaccs](https://twitter.com/davidkovaccs)
 
@@ -49,6 +49,6 @@ We will talk about:
 
 Prezi: [Pursuing 60 fps](https://prezi.com/tmwogkeaa9pl/pursuing-60-fps)
 
-PDF: [60fps.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/February/60fps.pdf)
+PDF: [60fps.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/February/60fps.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@TamasZahola](https://twitter.com/TamasZahola)

@@ -13,7 +13,7 @@ Info
 
 The full development, marketing and management stack of an app startup.
 
-Slides: [From 0101 to the Facebook ads.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/From 0101 to the Facebook ads.pdf)
+Slides: [From 0101 to the Facebook ads.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/August/From 0101 to the Facebook ads.pdf)
 
 :video_camera: Video: [From 0101 to the Facebook ads](http://www.ustream.tv/recorded/90772781)
 
@@ -26,7 +26,7 @@ Slides: [From 0101 to the Facebook ads.pdf](https://github.com/NSBudapest/NSBuda
 
 How to write better apps using data from Instruments.
 
-Slides: [PlayingWithInstruments.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/August/PlayingWithInstruments.pdf)
+Slides: [PlayingWithInstruments.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/August/PlayingWithInstruments.pdf)
 
 :video_camera: Video: [Playing with Instruments](http://www.ustream.tv/recorded/90773690)
 

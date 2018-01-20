@@ -13,4 +13,4 @@ It was our 1st anniversary! :cake:
 
 I would like to focus on high-level optimizations offered by the Swift-LLVM compiler. The main goal would be to describe mechanisms behind such concepts as: classes, generics, closures and to explain how to boost their performance. Also, I will discuss circumstances in which the compiler is able to improve the code on its own as well as situations that require an additional initiative from software developers.
 
-Slides: [SwiftCompiler_ LessIsMore_slides.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/2017/January/SwiftCompiler_ LessIsMore_slides.pdf)
+Slides: [SwiftCompiler_ LessIsMore_slides.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/2017/January/SwiftCompiler_ LessIsMore_slides.pdf)

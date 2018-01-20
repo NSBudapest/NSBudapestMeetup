@@ -13,7 +13,7 @@ Info
 
 There's still a lot of confusion and prejudice about what Xamarin really is and what it can do. We switched from Obj-c to C# in early 2014 and never looked back! I'd like to tell you about our journey, our mistakes, our successes and to clarify what Xamarin really is.
 
-Slides:  [NSBudapest-Xamarin.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/November/NSBudapest-Xamarin.pdf)
+Slides:  [NSBudapest-Xamarin.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/November/NSBudapest-Xamarin.pdf)
 
 :video_camera: [Gabor Furedi's talk on Ustream](http://www.ustream.tv/recorded/92982228)
 
@@ -26,7 +26,7 @@ Slides:  [NSBudapest-Xamarin.pdf](https://github.com/NSBudapest/NSBudapestMeetup
 
 Gergely is going to tell you a story how they have validated and developed an app for an offering.
 
-Slides:  [b2b.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/November/b2b.pdf)
+Slides:  [b2b.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/November/b2b.pdf)
 
 :video_camera: [Gergely Schmidt's talk on Ustream](http://www.ustream.tv/recorded/92829254)
 

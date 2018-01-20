@@ -16,7 +16,7 @@ The new platform offers the ability for developers to create and submit applicat
 
 In this talk I’ll introduce you this platform: we’ll talk about the core concept of tvOS, the concept of navigation and some development related topics too.
 
-Slides:  [tvOS.NSBudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/tvOS.NSBudapest.pdf)
+Slides:  [tvOS.NSBudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/October/tvOS.NSBudapest.pdf)
 
 :video_camera: [Gergo Nemeth's talk on Ustream](http://www.ustream.tv/recorded/92829253)
 
@@ -29,7 +29,7 @@ Slides:  [tvOS.NSBudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/bl
 
 An interesting approach on UI development, with a lot of advantages not just on the code, but on the team level as well. Let's go through some examples together to see how it works on iOS.
 
-Slides:  [iOS_UI.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/October/iOS_UI.pdf)
+Slides:  [iOS_UI.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/October/iOS_UI.pdf)
 
 :video_camera: [Agnes Vasarhelyi's talk on Ustream](http://www.ustream.tv/recorded/92829254)
 

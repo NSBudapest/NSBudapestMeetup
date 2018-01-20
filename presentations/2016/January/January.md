@@ -15,7 +15,7 @@ It was our first meetup.
 
 Few words about why we started this meetup and how it will roll in the future.
 
-Slides: [NSBudapest_intro.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/NSBudapest_intro.pdf)
+Slides: [NSBudapest_intro.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/January/NSBudapest_intro.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@vasarhelyia](https://twitter.com/vasarhelyia)
 
@@ -27,7 +27,7 @@ Swift is Apple's recently created programming language with no source or link-ti
 
 *Karoly originally started mobile programming for Palm OS. After being sidetracked as an employee of Charles Simonyi and then LogMeIn, he is now back on mobile platforms, as an intrepid indie developer wannabe on iOS. He hasn't shipped anything yet, and would you please stop asking him about a ship date.*
 
-Slides: [NSBudapest - lorentey - Swift.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/NSBudapest - lorentey - Swift.pdf)
+Slides: [NSBudapest - lorentey - Swift.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/January/NSBudapest - lorentey - Swift.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@lorentey](https://twitter.com/lorentey)
 
@@ -42,7 +42,7 @@ Slides: [NSBudapest - lorentey - Swift.pdf](https://github.com/NSBudapest/NSBuda
 
 Intro about the app: https://www.facebook.com/shapr3d/videos/739858942781269/?theater
 
-Slides: [shapr3d_nsbudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/shapr3d_nsbudapest.pdf)
+Slides: [shapr3d_nsbudapest.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/January/shapr3d_nsbudapest.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@istvan_csanady](https://twitter.com/istvan_csanady)
 
@@ -59,6 +59,6 @@ We haven't reached the end of our journey yet, however we think that our first l
 
 *Peter is a passionate software engineer. For the last 5 years he has worked in iOS development and contributed to the birth of several state of the art mobile applications under the flag of a Hungarian start-up, Distinction. Since the company’s acquisition by leading travel search engine Skyscanner in 2014, he has been leading iOS development teams and could also release his dream project, Dixie as the company’s first open source library.*
 
-Slides: [skyscanner_eng.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/January/skyscanner_eng.pdf)
+Slides: [skyscanner_eng.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/January/skyscanner_eng.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@peter_a_wiesner](https://twitter.com/peter_a_wiesner)

@@ -17,7 +17,7 @@ I have a proposal about a topic I've been working on the last months. I created 
 
 The reference is on [this](https://github.com/pepibumur/framework-oriented-programming) repository whose points would be explained in the talk.
 
-Slides: [Framework Oriented Programming.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/framework-oriented-programming.pdf)
+Slides: [Framework Oriented Programming.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/June/framework-oriented-programming.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@pepibumur](https://twitter.com/pepibumur)
 
@@ -28,7 +28,7 @@ Slides: [Framework Oriented Programming.pdf](https://github.com/NSBudapest/NSBud
 
 A few strategies for protecting yourself from your future self's mistakes. Write more robust code by expressing constraints in the type signature and avoiding partial functions. Give your compiler the tools it needs to assist you. Let it help you.
 
-Slides: [Dependent Types.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/June/dependent-types.pdf)
+Slides: [Dependent Types.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/June/dependent-types.pdf)
 
 ![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter: [@radexp](https://twitter.com/radexp)
 

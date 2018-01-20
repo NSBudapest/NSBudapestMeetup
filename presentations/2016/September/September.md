@@ -13,7 +13,7 @@ Info
 
 Basic intro and Stuff.
 
-Slides: [hollr.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/hollr.pdf)
+Slides: [hollr.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/September/hollr.pdf)
 
 :video_camera: Video: [React Native](http://www.ustream.tv/recorded/92148460)
 
@@ -24,7 +24,7 @@ Slides: [hollr.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/p
 
 **Daniel Haight (iOS developer, organiser [@NSLondon](http://www.meetup.com/NSLondon/)): Easy Complex UIControls**
 
-Slides: [EasyComplexUIControls.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/presentations/September/EasyComplexUIControls.pdf)
+Slides: [EasyComplexUIControls.pdf](https://github.com/NSBudapest/NSBudapestMeetup/blob/master/Presentations/September/EasyComplexUIControls.pdf)
 
 :video_camera: Video: [Easy Complex UIControls](http://www.ustream.tv/recorded/92345023)
 
